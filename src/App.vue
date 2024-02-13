@@ -25,9 +25,9 @@ const handleClick = () => {
           <section class="main">
             <RouterView />
           </section>
-          <div class="footerBody">
+          <!-- <div class="footerBody">
             <Footer />
-          </div>
+          </div> -->
         </div>
 
       </div>
